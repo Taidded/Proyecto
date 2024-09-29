@@ -7,4 +7,6 @@
      
      1.3 Se remplazar valores de variables categóricas.
 
-  2. 
+  2. Se realiza el desarrollo/testing en Replit.
+
+  3. Se carga el proyecto a Streamlit.
